@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_mode_edit_black_24dp"
+        android:title="记账" />
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/ic_trending_up_black_24dp"
+        android:title="统计" />
+</menu>
